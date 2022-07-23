@@ -4,3 +4,4 @@ height = float(input("How told are you?: "))
 
 print("Hello " + name)
 print("You are " + str(age) + " years old")
+print("You are " + str(height) + "cm tall")
